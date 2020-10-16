@@ -1,4 +1,3 @@
-# salthub
-Awesome script hub made by Salt
+# cool
 
-https://salthub-master.github.io/salthub/
+https://salthub-master.github.io/zyph/
