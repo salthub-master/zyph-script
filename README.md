@@ -1,3 +1,3 @@
 # cool
 
-https://salthub-master.github.io/zyph/
+https://salthub-master.github.io/zyph-script/
